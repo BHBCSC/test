@@ -1,3 +1,2 @@
 show me something
-<<<<<<< HEAD
-feature one two three four five six
+feature 123456

@@ -1,2 +1,2 @@
 show me something
-feature 123456
+feature 123456 bug deleted
